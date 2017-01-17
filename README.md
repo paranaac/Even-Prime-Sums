@@ -1,2 +1,5 @@
 # Even-Prime-Sums
-A even prime sums challenge using LISP
+
+Date: 4/15/2016
+
+An even prime sums challenge using LISP
